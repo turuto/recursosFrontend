@@ -1,0 +1,21 @@
+/*
+* FULL BLEED by ANDY BELL
+* https://piccalil.li/tutorial/creating-a-full-bleed-css-utility/
+* This class kinds of expands full width to elements inside containers
+*
+*/
+.full-bleed {
+	width: 100vw;
+	margin-left: calc(50% - 50vw);
+}
+/*
+* This is the container he usually uses
+*/
+.wrapper {
+	max-width: 50rem;
+	margin-right: auto;
+	margin-left: auto;
+}
+body {
+	overflow-x: hidden; //hides scrollbar Horizontal
+}
