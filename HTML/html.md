@@ -10,5 +10,7 @@ https://htmlemail.io/
  Responsive Image Breakpints: https://www.responsivebreakpoints.com/
 
  Responsinator: View responsive version of any URL: http://www.responsinator.com/
+
+ **Webcode** Generator of snippets for web dev: https://webcode.tools/
 ## Tutorials
 https://htmlreference.io/
