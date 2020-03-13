@@ -1,9 +1,6 @@
-# Articles
-# People to follow
-# References
-# Resources
-# Tools
+# COLOR
 ## Color Schemes
  http://colrd.com/palette/
  https://coolors.co/
-# Tutorials
+ https://carto.com/carto-colors/
+
