@@ -2,6 +2,7 @@
 ## Examples
 
 **Responsive table with scroll** https://codepen.io/Neol/pen/FdcwD
+**Responsive patterns** Brad Frost list of codepens : http://bradfrost.github.io/this-is-responsive/patterns.html#navigation
 
 ## Frameworks
 **HaitiCSS.** Dani Fornells ITCSS framework: https://haiticss.io/
