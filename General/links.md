@@ -1,6 +1,9 @@
 # GENERAL LINKS
 
 ## Resources
+
+**Emmet Documentation**: https://docs.emmet.io/cheat-sheet/
+
 **Dypsilon Frontend dev bookmarks** https://github.com/dypsilon/frontend-dev-bookmarks
 
 **Tips for Sublime**: https://benfrain.com/top-tips-selection-unrelated-front-end-developer-tips/
@@ -17,3 +20,5 @@ http://wwwhere.io/
 
 **The Starter Kit**:
 https://www.thestarterkit.info/
+
+**Screen sizes**: http://screensiz.es/

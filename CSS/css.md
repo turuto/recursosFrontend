@@ -15,6 +15,16 @@
 
 **Primefaces**: https://www.primefaces.org/showcase/ui/input/calendar.xhtml
 
+## LESS
+**3L*. Github repo with LESS utilities https://github.com/mateuszkocz/3l/
+
+**Clearleft**. Github repo of LESS mixins. https://github.com/clearleft/clearless
+
+**Less Elements**: Collection of LESS mixins. http://lesselements.com/
+
+**Preboot**: Collection os LESS utilities. http://getpreboot.com/
+
+
 ## Modular Scale and Vertical Rhythm
 **Codementor tut**: https://www.codementor.io/@ricardozea/100-responsive-typography-system-using-a-modular-scale-s5rhft58g
 
