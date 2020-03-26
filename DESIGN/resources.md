@@ -1,4 +1,10 @@
 # RESOURCES
+## Inspiration
+**Form Follows Function**:http://fff.cmiscm.com/#!/main
+
+**One Page Love**: https://onepagelove.com
+
+**SiteInspire**: https://www.siteinspire.com/
 ## To Read
 **Guide to Seamless web design** : Old article but still useful. https://www.noupe.com/design/a-guide-to-seamless-website-redesign.html
 

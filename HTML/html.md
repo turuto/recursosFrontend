@@ -1,8 +1,11 @@
 # HTML
 
 ## HTML Email
-Html email templates:
+**Html email templates:**
 https://htmlemail.io/
+
+## Teaching Resources
+**Html and Css Book**: http://www.htmlandcssbook.com/
 
 ## Tools
 

@@ -35,12 +35,27 @@
 ## Styleguides
 **DocumentCSS**: https://documentcss.com/docs/index.html
 
+## Teaching Resources
+**CSS selectors must memorize** https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
 ## Tools
 **CSS Suport in Emails**: https://www.campaignmonitor.com/css/
 
 **Google Fonts Helper**: Self host Google fonts. https://google-webfonts-helper.herokuapp.com/fonts
 
 **LayouitIt!**: GUI to generate both CSSGRID and Bootstrap layout: https://www.layoutit.com/
+
+**CSS3 Generators**: http://css3generator.com/
+
+**Ultimate CSS gradient generator**:https://www.colorzilla.com/gradient-editor/
+
+**Helium** Disover unused CSS: https://github.com/geuis/helium-css
+
+**CSSCSS** Dicover duplicate css: https://github.com/zmoazeni/csscss
+
+**CSS font stack** https://www.cssfontstack.com/
+
+
 
 ## Tutorials
 **Calc(). The complete guide**: https://css-tricks.com/a-complete-guide-to-calc-in-css/

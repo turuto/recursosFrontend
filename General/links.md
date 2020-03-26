@@ -1,6 +1,7 @@
 # GENERAL LINKS
 
 ## Resources
+**Campaign monitor** https://www.campaignmonitor.com/resources/guides/
 
 **Emmet Documentation**: https://docs.emmet.io/cheat-sheet/
 
@@ -9,6 +10,8 @@
 **Tips for Sublime**: https://benfrain.com/top-tips-selection-unrelated-front-end-developer-tips/
 
 **UptoDate Frontend rescue**: General list. https://uptodate.frontendrescue.org/
+
+
 
 
 ## Tools
