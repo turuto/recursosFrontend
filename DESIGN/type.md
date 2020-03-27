@@ -4,15 +4,20 @@
 
 **Web Typography Tips**: https://design.infinum.com/case/web-typography-tips
 
-## Resources
+## FONTS
 **Top 20 Google Fonts**: https://bootstrapbay.com/blog/google-web-fonts/
+**The League of Moveable Type**:https://www.theleagueofmoveabletype.com/
 
 ## Tools
-**Font converter**: http://www.freefontconverter.com/
 
 **Fontastic**: Create your icon fonts. http://fontastic.me/
 
 **Fontello**: Another icon font generator. http://fontello.com/
+
+**Font converter**: http://www.freefontconverter.com/
+
+**Font Squirrel**: Another conversion tool. https://www.fontsquirrel.com/
+**Font2Web**: Conversor. http://www.font2web.com/#
 
 **Google webfonts helper**: How to self host your google fonts: https://google-webfonts-helper.herokuapp.com/fonts
 
