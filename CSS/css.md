@@ -58,6 +58,9 @@
 
 
 ## Tutorials
+
+**CSS Animations guide** https://css-tricks.com/tips-for-writing-animation-code-efficiently/
+
 **Calc(). The complete guide**: https://css-tricks.com/a-complete-guide-to-calc-in-css/
 
 **Flexbox defense**: Game to learn CSS FLEXBOX: http://www.flexboxdefense.com/?utm_source=CSS-Weekly&utm_campaign=Issue-205&utm_medium=web
