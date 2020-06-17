@@ -2,6 +2,16 @@
 ## Articles
 **CSS findings in Facebook**: https://ishadeed.com/article/new-facebook-css/
 
+**CSS Transitions** https://www.webdesignerdepot.com/2013/04/how-to-use-css3-transitions/
+
+**Cicada Principle** https://css-tricks.com/cicada-principle-css/ Tecnhique to pseudo randomize
+
+**CrossBrowsing debugging css** by Stubbornella http://www.stubbornella.org/content/2012/05/02/cross-browser-debugging-css/
+
+**LearnLayout** http://learnlayout.com/ Basic tutorial about layout. Not so in depth as Rachel Andrew's but good to starters
+
+**Specifics on CSS Specitificity** https://css-tricks.com/specifics-on-css-specificity/
+
 ## Examples
 
 **Responsive table with scroll** https://codepen.io/Neol/pen/FdcwD
@@ -42,6 +52,10 @@
 **CSS selectors must memorize** https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 
 ## Tools
+**CanIUse** https://caniuse.com/
+
+**csscss**https://github.com/zmoazeni/csscss Tool for discovering duplicate css
+
 **CSS Suport in Emails**: https://www.campaignmonitor.com/css/
 
 **Google Fonts Helper**: Self host Google fonts. https://google-webfonts-helper.herokuapp.com/fonts
