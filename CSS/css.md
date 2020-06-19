@@ -72,6 +72,8 @@
 
 **CSS font stack** https://www.cssfontstack.com/
 
+**Sorted CSS Colors** CSS color names sorted by hue https://codepen.io/pavlovsk/full/zYvbGKe
+
 
 
 ## Tutorials
