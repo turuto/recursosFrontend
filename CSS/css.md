@@ -12,6 +12,8 @@
 
 **Specifics on CSS Specitificity** https://css-tricks.com/specifics-on-css-specificity/
 
+**Ten modern one line layouts** https://web.dev/one-line-layouts/
+
 ## Examples
 
 **Responsive table with scroll** https://codepen.io/Neol/pen/FdcwD

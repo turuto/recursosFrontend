@@ -13,3 +13,5 @@ Styleguides: http://styleguides.io/
 **2020 UI Trends**: https://medium.muz.li/top-ui-ux-design-trends-for-mobile-apps-2020-f32cde592fd0?gi=51a895a09b3a
 
 **DailyUI** https://www.dailyui.co/
+
+**Guideline para implementar test A/B** https://www.flat101.es/blog/desarrollo-web/guideline-tecnico-para-implementar-un-test-a-b/
