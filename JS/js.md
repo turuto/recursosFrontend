@@ -12,6 +12,8 @@
 
 **unheap** http://www.unheap.com/ tidy repository of js plugins
 
+**How to make a cookie** https://javascript.info/cookie
+
 ## Tutorials
 **10 Tips for writing JS without jQuery**: https://tutorialzine.com/2014/06/10-tips-for-writing-javascript-without-jquery
 
