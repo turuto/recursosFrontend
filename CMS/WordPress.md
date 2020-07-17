@@ -9,6 +9,8 @@
 
 **WordPress block patterns explained** https://www.elmastudio.de/en/wordpress-block-patterns-explained/
 
+**Creating Block Patterns** https://melchoyce.design/2020/03/30/creating-a-simple-block-pattern-plugin-for-the-gutenberg-editor/
+
 
 
 ## Reference
