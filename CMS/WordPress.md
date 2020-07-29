@@ -20,5 +20,7 @@
 ## Tools
 **Code Generator**: https://www.wp-hasty.com/
 
+**Wp-config pro** Javier Casares nos ofrece este generador de wp-config https://wp-config.pro/
+
 ## Tutorials
 **wpmudev** Several tutorials. https://premium.wpmudev.org/docs/using-wordpress/
