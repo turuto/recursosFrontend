@@ -16,6 +16,8 @@
 ## Reference
  **BlogInfo** https://developer.wordpress.org/reference/functions/bloginfo/
 **WP (dot) org Developer resources**: https://developer.wordpress.org/
+## Talks
+**JavascriptForWP Conference 2019** https://www.youtube.com/watch?v=_--HmKrazn8&list=PLruo2gSoqlejI4_I4ypRCluXgWIVtpovx
 
 ## Tools
 **Code Generator**: https://www.wp-hasty.com/
