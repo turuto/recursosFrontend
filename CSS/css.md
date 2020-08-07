@@ -1,5 +1,7 @@
 # CSS
 ## Articles
+**Modern CSS Tecnhiques to improve legibility**: https://www.smashingmagazine.com/2020/07/css-techniques-legibility/
+
 **CSS findings in Facebook**: https://ishadeed.com/article/new-facebook-css/
 
 **CSS Transitions** https://www.webdesignerdepot.com/2013/04/how-to-use-css3-transitions/
