@@ -1,6 +1,26 @@
 # JS
+
+## Books
+Recomendaciones de [Miguel Ángel Durán](https://twitter.com/midudev) en su [video](https://www.youtube.com/watch?v=Rtqvnl02Zcs):
+
+📖  [Building Frontend Web Apps with Plain Javascript](https://web-engineering.info/JsFrontendApp-Book) by Gerd Wagner
+
+
+📖  [Javascript for impatient programmers](https://exploringjs.com/impatient-js/toc.html) by Axel Rauschmayer
+
+📖 [Eloquent Javascript](https://eloquentjavascript.net/) by Marijn Haverbeke
+
+📖 [Human Javascript](https://read.humanjavascript.com/) by Henrik Joreteg
+
+📖 [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
+
+📖 [Javascript Info](https://javascript.info/)
+
+📖 [You Don't Know JS YET](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed) by Kyle Simpson
+
+
 ## Examples
-**REsizable table** http://jsfiddle.net/ydTCZ/
+**Resizable table** http://jsfiddle.net/ydTCZ/
 
 ## Links
 **Essenial JS links** https://gist.github.com/ericelliott/d576f72441fc1b27dace
