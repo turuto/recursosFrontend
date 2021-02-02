@@ -1,4 +1,8 @@
 # JS
+## Articles
+**[Do you know the differences between var, let and const in JavaScript?](https://codeburst.io/do-you-know-the-differences-between-var-let-and-const-in-javascript-b08cd3acc8b0)** by Casimir
+
+**[Understanding Javascript's event loop: Macrotasks and microtasks](https://sergiocarracedo.es/2020/04/27/js-loop/)** by Sergio Carracedo
 
 ## Books
 Recomendaciones de [Miguel Ángel Durán](https://twitter.com/midudev) en su [video](https://www.youtube.com/watch?v=Rtqvnl02Zcs):
@@ -18,6 +22,10 @@ Recomendaciones de [Miguel Ángel Durán](https://twitter.com/midudev) en su [vi
 
 📖 [You Don't Know JS YET](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed) by Kyle Simpson
 
+## Courses (free)
+🎓 [Full Stack Open](https://fullstackopen.com/en/)
+
+🎓 [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
 ## Examples
 **Resizable table** http://jsfiddle.net/ydTCZ/
