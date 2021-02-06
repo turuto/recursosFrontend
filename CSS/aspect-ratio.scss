@@ -1,0 +1,53 @@
+/*CODEPEN SNIPPET https://codepen.io/codyhouse/pen/BaQjxRZ
+by CodyHouse
+*/
+[class*='aspect-ratio'] {
+	height: 0;
+	padding-bottom: calc(100%/(var(--aspect-ratio)));
+
+	--aspect-ratio: 16/9;
+
+	@supports (aspect-ratio: 16/9) {
+		height: initial;
+		padding-bottom: initial;
+
+		aspect-ratio: var(--aspect-ratio);
+	}
+}
+
+.aspect-ratio-16\:9 {
+	--aspect-ratio: 16/9;
+}
+.aspect-ratio-4\:3 {
+	--aspect-ratio: 4/3;
+}
+.aspect-ratio-1\:1 {
+	--aspect-ratio: 1/1;
+}
+/*CSS VERSION*/
+[class*=aspect-ratio] {
+	height: 0;
+	padding-bottom: calc(100%/(var(--aspect-ratio)));
+
+	--aspect-ratio: 16/9;
+}
+@supports (aspect-ratio: 16/9) {
+	[class*=aspect-ratio] {
+		height: initial;
+		padding-bottom: initial;
+
+		aspect-ratio: var(--aspect-ratio);
+	}
+}
+
+.aspect-ratio-16\:9 {
+	--aspect-ratio: 16/9;
+}
+
+.aspect-ratio-4\:3 {
+	--aspect-ratio: 4/3;
+}
+
+.aspect-ratio-1\:1 {
+	--aspect-ratio: 1/1;
+}
