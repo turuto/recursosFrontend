@@ -27,6 +27,19 @@
 ## Challenges
 + [**JAVASCRIPT30**](https://javascript30.com/) and  [solutions](https://github.com/wesbos/JavaScript30) by Wes Bos
 + 😺 [**Javascript Questions**](https://github.com/lydiahallie/javascript-questions) By [Lydia Hallie](https://github.com/lydiahallie)
+Need links for the following
++ Frontend Mentor
++ CSS Battle
++ Ace Front End
++ 100 Days of CSS Challenge
++ Codier
++ Front-End Challenges Club
++ CodePen Challenges
++ Daily UI
++ Frontloops
++ Good Code
++ Devchallenges
+
 
 ## Courses (free)
 + 🎓 [Full Stack Open](https://fullstackopen.com/en/)
