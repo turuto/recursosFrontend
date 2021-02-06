@@ -24,9 +24,9 @@ https://htmlemail.io/
 
 ## Tutorials
 
-+ **Responsive Images Syntax** https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_255
++ [**Responsive Images Syntax**](https://css-tricks.com/a-guide-to-the-responsive-images-syntax-in-html/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_255)
 
-+ **custom SELECT accesible tutorial** https://css-tricks.com/striking-a-balance-between-native-and-custom-select-elements/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_255
++ [**custom SELECT accesible tutorial**](https://css-tricks.com/striking-a-balance-between-native-and-custom-select-elements/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_255)
 
 
-+ https://htmlreference.io/
++ [HTML Reference](https://htmlreference.io/)
