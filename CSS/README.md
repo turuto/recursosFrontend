@@ -23,12 +23,12 @@
 ## Examples
 
 [**Responsive table with scroll** ](https://codepen.io/Neol/pen/FdcwD)
-**Responsive patterns** Brad Frost list of codepens : http://bradfrost.github.io/this-is-responsive/patterns.html#navigation
+[**Responsive patterns**](http://bradfrost.github.io/this-is-responsive/patterns.html#navigation )Brad Frost list of codepens
 
 ## Frameworks
-**HaitiCSS.** Dani Fornells ITCSS framework: https://haiticss.io/
+[**HaitiCSS**](https://haiticss.io/) Dani Fornells ITCSS framework
 
-**InuitCSS**.   Harry Roberts propopsal based on ITCSS:   https://github.com/inuitcss
+[**InuitCSS**](https://github.com/inuitcss)  Harry Roberts propopsal based on ITCSS:
 
 [**Materialize**: ](https://scotch.io/tutorials/make-material-design-websites-with-the-materialize-css-framework)
 
@@ -37,14 +37,13 @@
 [**Primefaces**: ](https://www.primefaces.org/showcase/ui/input/calendar.xhtml)
 
 ## LESS
-**3L**. Github repo with LESS utilities https://github.com/mateuszkocz/3l/
+[**3L**](https://github.com/mateuszkocz/3l/) Github repo with LESS utilities
 
-**Clearleft**. Github repo of LESS mixins. https://github.com/clearleft/clearless
+[**Clearleft**](https://github.com/clearleft/clearless) Github repo of LESS mixins.
 
-**Less Elements**: Collection of LESS mixins. http://lesselements.com/
+[**Less Elements**](http://lesselements.com/) Collection of LESS mixins.
 
-**Preboot**: Collection os LESS utilities. http://getpreboot.com/
-
+[**Preboot**](http://getpreboot.com/) Collection os LESS utilities.
 
 ## Modular Scale and Vertical Rhythm
 [**Codementor tut**: ](https://www.codementor.io/@ricardozea/100-responsive-typography-system-using-a-modular-scale-s5rhft58g)
@@ -66,21 +65,21 @@
 
 [**CSS Suport in Emails**:](https://www.campaignmonitor.com/css/)
 
-**Google Fonts Helper**: Self host Google fonts. https://google-webfonts-helper.herokuapp.com/fonts
+[**Google Fonts Helper**](https://google-webfonts-helper.herokuapp.com/fonts) Self host Google fonts.
 
-**LayouitIt!**: GUI to generate both CSSGRID and Bootstrap layout: https://www.layoutit.com/
+[**LayouitIt!**](https://www.layoutit.com/) GUI to generate both CSSGRID and Bootstrap layout
 
 [**CSS3 Generators**: ](http://css3generator.com/)
 
 [**Ultimate CSS gradient generator**:](https://www.colorzilla.com/gradient-editor/)
 
-**Helium** Disover unused CSS: https://github.com/geuis/helium-css
+[**Helium**](https://github.com/geuis/helium-css) Disover unused CSS:
 
-**CSSCSS** Dicover duplicate css: https://github.com/zmoazeni/csscss
+[**CSSCSS**](https://github.com/zmoazeni/csscss) Dicover duplicate css:
 
-**CSS font stack** https://www.cssfontstack.com/
+[**CSS font stack**](https://www.cssfontstack.com/)
 
-**Sorted CSS Colors** CSS color names sorted by hue https://codepen.io/pavlovsk/full/zYvbGKe
+[**Sorted CSS Colors**](https://codepen.io/pavlovsk/full/zYvbGKe) CSS color names sorted by hue
 
 
 
